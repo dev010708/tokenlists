@@ -1,0 +1,8 @@
+{
+  "name": "tokenlists",
+  "version": "1.0.0",
+  "description": "Tokenlists for the Quantex.",
+  "keywords": ["tokenlist", "quantex"],
+  "author": "Quantex",
+  "license": "MIT"
+}

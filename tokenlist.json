@@ -1,0 +1,62 @@
+{
+    "name": "Quantex Token List",
+    "logoURI": "",
+    "keywords": ["tokenlist","quantex"],
+    "version": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+    },
+    "tags": {
+        "stablecoin": {
+            "name": "Stablecoin",
+            "description": "Tokens that are fixed to an external asset, e.g. the US dollar"
+        }
+    },
+    "tokens": [
+        {
+            "chainId": 59141,
+            "address": "0xf63d68323401584018f5b98e109eb3dee5b77492",
+            "decimals": 6,
+            "name": "Mock USDT",
+            "symbol": "USDT",
+            "tags": ["stablecoin"],
+            "logoURI": "https://raw.githubusercontent.com/dev010708/tokenlists/main/logos/59141/0xf63d68323401584018f5b98e109eb3dee5b77492/logo.png"
+        },
+        {
+            "chainId": 59141,
+            "address": "0xc817c2c63178877069107873489ea69819f1a537",
+            "decimals": 18,
+            "name": "DAI Coin",
+            "symbol": "DAI",
+            "tags": ["stablecoin"],
+            "logoURI": "https://raw.githubusercontent.com/dev010708/tokenlists/main/logos/59141/0xc817c2c63178877069107873489ea69819f1a537/logo.png"
+        },
+        {
+            "chainId": 59141,
+            "address": "0x237fedf7cfc9b1612e1f2d710ca792f08441316b",
+            "decimals": 6,
+            "name": "USD Coin",
+            "symbol": "USDC",
+            "tags": ["stablecoin"],
+            "logoURI": "https://raw.githubusercontent.com/dev010708/tokenlists/main/logos/59141/0x237fedf7cfc9b1612e1f2d710ca792f08441316b/logo.png"
+        },
+        {
+            "chainId": 59141,
+            "address": "0x63295fe700708296b4073362ba7d86ddb6407a65",
+            "decimals": 18,
+            "name": "Wrapped Ether",
+            "symbol": "WETH",
+            "logoURI": "https://raw.githubusercontent.com/dev010708/tokenlists/main/logos/59141/0x63295fe700708296b4073362ba7d86ddb6407a65/logo.png"
+        },
+        {
+            "chainId": 59141,
+            "address": "0x9724bec602c91a5744272ea9cc79b0a0594cfcf7",
+            "decimals": 18,
+            "name": "Qnx Token",
+            "symbol": "Qnx",
+            "logoURI": "https://raw.githubusercontent.com/dev010708/tokenlists/main/logos/59141/0x9724bec602c91a5744272ea9cc79b0a0594cfcf7/logo.png"
+        }
+    ],
+    "timestamp": "2024-10-01T00:00:00.000Z"
+}
